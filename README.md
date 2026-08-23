@@ -82,7 +82,7 @@ License information will be added in a future release.
 
 👨‍💻 Developer
 
-GOGG-CBD (Rothanak)
+GOGG-CBD
 
 📺 YouTube
 
@@ -92,7 +92,7 @@ https://www.youtube.com/@KEO-MONYROTHANAK
 
 ❤️ Credits
 
-Created with ❤️ by GOGG-CBD (Rothanak) for Android users who need a simple and useful Base64 toolkit.
+Created with ❤️ by GOGG-CBD for Android users who need a simple and useful Base64 toolkit.
 
 Thank you for testing Base64 Toolkit and supporting the project! 🙏
 
@@ -101,4 +101,4 @@ Thank you for testing Base64 Toolkit and supporting the project! 🙏
 Base64 Toolkit v1.0 (BETA)
 🔐 Encode • Decode • Tools • Colors • Android
 
-Made by GOGG-CBD (Rothanak)
+Made by GOGG-CBD
